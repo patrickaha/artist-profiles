@@ -1,0 +1,62 @@
+{
+  "id": "david-arteaga",
+  "name": "David Arteaga",
+  "businessName": "Teaga Photo",
+  "tagline": "Long Island's Premier Landscape Photographer",
+  "location": "Eastern Long Island, NY",
+  "businessMaturity": "Advanced",
+  "website": "teagaphoto.com",
+  "social": {
+    "instagram": "@teagaphoto",
+    "facebook": "/teagaphoto"
+  },
+  "keyStrengths": [
+    "Authentic Long Island Voice",
+    "Professional Infrastructure", 
+    "Consistent Content Strategy",
+    "Multi-Channel Revenue",
+    "Customer-Centric Approach"
+  ],
+  "categories": [
+    "Best Sellers",
+    "Land & Sea", 
+    "Rocks & Water",
+    "Nightscapes",
+    "Trucks & Tractors",
+    "Barns & Landscapes"
+  ],
+  "digitalPresence": {
+    "websiteProfessionalism": 9,
+    "socialConsistency": 8,
+    "contentQuality": 9,
+    "localAuthority": 10,
+    "customerExperience": 9,
+    "overall": 9
+  },
+  "pricing": {
+    "entryPoint": 78,
+    "premiumRange": "124+",
+    "positioning": "Mid-market, professional but accessible"
+  },
+  "revenueStreams": [
+    "Online Sales",
+    "Art Shows", 
+    "Commercial Installations",
+    "Commission Work",
+    "Merchandise"
+  ],
+  "uniquePositioning": [
+    "Local Authority: Undisputed Long Island landscape expert",
+    "Rural Americana Specialty: Trucks, tractors, barns",
+    "Technical Excellence: Long exposure mastery, night photography",
+    "Community Integration: Deep local relationships",
+    "Professional Infrastructure: Full Art Storefronts utilization"
+  ],
+  "successFactors": [
+    "Authentic Voice: Genuine passion and local expertise",
+    "Consistent Execution: Regular content, professional presentation", 
+    "Community Integration: Real relationships, not just marketing",
+    "Technical Excellence: High-quality product justifies pricing",
+    "Business Sophistication: Understanding of customer psychology"
+  ]
+}
