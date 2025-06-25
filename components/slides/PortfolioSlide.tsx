@@ -18,7 +18,7 @@ export default function PortfolioSlide({ categories }: PortfolioSlideProps) {
       <div className="max-w-6xl w-full">
         <div className="text-center mb-12">
           <h2 className="text-5xl font-bold text-white mb-4">Portfolio Highlights</h2>
-          <p className="text-xl text-white/80">Specialized collections showcasing Long Island's beauty</p>
+          <p className="text-xl text-white/80">Specialized collections showcasing Long Island&apos;s beauty</p>
         </div>
 
         <div className="grid grid-cols-2 md:grid-cols-3 gap-6">
@@ -44,7 +44,7 @@ export default function PortfolioSlide({ categories }: PortfolioSlideProps) {
             <h3 className="text-2xl font-bold text-white mb-4">Strategic Insight</h3>
             <p className="text-white/90 text-lg leading-relaxed">
               Portfolio structure shows sophisticated understanding of customer psychology - 
-              leading with "Best Sellers" creates social proof and guides purchase decisions.
+              leading with &quot;Best Sellers&quot; creates social proof and guides purchase decisions.
             </p>
           </div>
         </div>
